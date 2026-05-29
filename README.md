@@ -26,13 +26,15 @@ With a strong dedication to algorithmic problem-solving, I actively maintain a *
 </p>
 
 ### 🚀 Featured Projects
-
-- **PMT Workforce Manager:** Architected a production-ready, multi-agent scheduling system using **LangGraph** and **Kafka**. Engineered a RAG pipeline to estimate project work-hours autonomously, achieving 92% retrieval precision and reducing manual allocation time by 85%.
+<!-- 
+- **PMT Workforce Manager:** Architected a production-ready, multi-agent scheduling system using **LangGraph** and **Kafka**. Engineered a RAG pipeline to estimate project work-hours autonomously, achieving 92% retrieval precision and reducing manual allocation time by 85%. -->
 
 - **ResuMatch:** An AI-powered full-stack platform (**React, FastAPI, MongoDB**) for automated resume tailoring. Leveraged **Sentence Transformers** and the **Claude API** to analyze job descriptions and rewrite experiences into targeted bullet points.
 
 - **Crime Database Management System:** A highly normalized (BCNF) PostgreSQL system integrated with Tableau visualizations for robust data management and analytics.
 
+- **Student Engagement Tracker:** Developed a full-stack web platform using PHP and MySQL, enabling role-based access for 5000+ students, faculty, and
+administrators, to track non-academic achievements across arts, sports, research, internships, and other fields.
 ### 📊 GitHub Stats & Trophies
 <!-- <p align="center">
   <a href="https://github.com/pgulhane07">
